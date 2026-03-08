@@ -20,7 +20,7 @@ DIM='\033[2m'
 RESET='\033[0m'
 
 VERSION="v0.1.0-testnet"
-BASE_URL="https://install.zzero.net/binaries"
+BASE_URL="https://github.com/Zzero-net/install.zzero.net/releases/download"
 
 # ─── Helpers ─────────────────────────────────────────────────────────
 
